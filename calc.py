@@ -54,6 +54,5 @@ while True:
     print(f"\nResult: {num1} {operator} {num2} = {result}")
   except ZeroDivisionError as e:
     print(e)
-
-
+# here used i covered functions, operators, loops, user input, conditionals, exception handling, and edge cases.
 
